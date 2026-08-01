@@ -2,6 +2,12 @@
 
 멀티캠퍼스 AI 에이전트 엔지니어 트랙에서 매일 배운 내용을 날짜별로 정리합니다.
 
+## 복습용 학습 자료
+
+`docs/index.html` — 검색·목차·코드복사·복습 플래시카드가 들어간 HTML 학습 자료입니다.
+로컬에서 `docs/index.html` 을 열거나, GitHub Pages(Settings → Pages → Source: `main` / `/docs`)를 켜면
+https://rhkrwnstjd19.github.io/TIL/ 에서 볼 수 있습니다. `/TIL_Create` 로 재생성됩니다.
+
 ## 목록
 
 - [2026-07-21 — 오리엔테이션 & 발대식](2026-07-21.md)
