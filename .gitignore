@@ -1,0 +1,22 @@
+# HTML 산출물은 푸시하지 않는다 — 로컬에서만 보는 복습 자료다.
+# /TIL_Create 가 docs/ 를 언제든 재생성하므로 저장소에 둘 이유가 없다.
+docs/
+*.html
+
+# 블로그 원고(티스토리 등록용 초안)
+blog/
+
+# 비밀정보 — 절대 커밋 금지
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+credentials/
+secrets/
+
+# 잡동사니
+.DS_Store
+Thumbs.db
